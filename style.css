@@ -4,6 +4,7 @@ body {
     justify-content: center;
     align-items: center;
     background-color: rgb(212, 214, 214);
+    margin-top: 50px;
 }
 
 div {
@@ -26,3 +27,31 @@ h1 {
     border-style: solid;
 }
 
+#buttonContainer {
+    display: flex;
+    justify-content: center;
+    margin: 20px;    
+}
+
+#sizes {
+    margin-right: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#clear {
+    margin-left: 50px;
+    font-style: italic;
+    font-weight: 700;
+    width: 90px;
+    border-radius: 15px;
+    border-width: 8px;
+}
+
+#small, #medium, #big {
+    margin-right: 20px;
+    font-style: italic;
+    font-weight: 700;
+    width: 90px;
+    border-width: 8px; 
+}
