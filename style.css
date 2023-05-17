@@ -45,7 +45,7 @@ h1 {
     font-weight: 700;
     width: 90px;
     border-radius: 15px;
-    border-width: 8px;
+    border-width: 5px;
 }
 
 #small, #medium, #big {
@@ -53,5 +53,5 @@ h1 {
     font-style: italic;
     font-weight: 700;
     width: 90px;
-    border-width: 8px; 
+    border-width: 5px; 
 }
